@@ -1,0 +1,14 @@
+cond $a {
+    $a = function1 $s s s s
+    function2 s s $s s
+} else {
+    functionA s s s s
+    functionB s s s s
+}
+
+
+loop {
+    function
+    break
+}
+
